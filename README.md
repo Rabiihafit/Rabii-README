@@ -1,70 +1,59 @@
-<p align="center">
-  <a href="https://github.com/RabiiHafit">
-    <img width="80%" alt="Hi, I'm Rabii Hafit — Full Stack Web Developer" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
-
-<br />
-
-I'm a passionate **Full Stack Web Developer** student from 🇲🇦 **Morocco**.
+<h1 align="center">👋 Hi, I'm Rabii Hafit</h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently studying **BTS in Full Stack Web Development**  
-- 💡 I love building **modern web applications** and learning new technologies  
-- 💼 Working on personal projects that mix **tech, design, and trading**  
-- 🧠 Currently exploring: **MERN Stack**, **Supabase**, and **Next.js**  
-- ⚙️ Always improving my skills in **JavaScript**, **PHP**, and **Databases**  
-- 💬 Ask me about anything [here](https://github.com/RabiiHafit/RabiiHafit/issues)
+I'm a passionate **Full Stack Web Developer** currently studying for a **BTS in Web Development**.  
+I love building clean, modern web applications and constantly improving my skills through real projects.
+
+- 💡 Interested in **JavaScript**, **PHP**, and **modern web frameworks**
+- 🧠 Currently learning **React**, **Node.js**, and **Supabase**
+- 🚀 Working on personal and academic projects
+- 🎯 Goal: Become a professional **Software Engineer**
 
 ---
 
 ### 🛠️ Tech Stack
 
-<code><img height="25" alt="html5" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="25" alt="css3" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-<code><img height="25" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="25" alt="typescript" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
-<code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="25" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="25" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
-<code><img height="25" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="25" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-<code><img height="25" alt="supabase" src="https://raw.githubusercontent.com/github/explore/master/topics/supabase/supabase.png"></code>
-<code><img height="25" alt="tailwind" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"></code>
-<code><img height="25" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" alt="PHP"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySQL"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git"></code>
 
 ---
 
-| <a href="https://github.com/RabiiHafit"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RabiiHafit&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rabii's GitHub stats" /></a> | <a href="https://github.com/RabiiHafit"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabiiHafit&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 📊 GitHub Stats
 
----
-
-### 🚀 Featured Projects
-
-<a href="https://github.com/RabiiHafit/trading-journal-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RabiiHafit&repo=trading-journal-app&theme=buefy" />
-</a>
-<a href="https://github.com/RabiiHafit/portfolio-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RabiiHafit&repo=portfolio-website&theme=buefy" />
-</a>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RabiiHafit&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabiiHafit&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
 
-<a href="https://x.com/RabiiHafit">
-  <img align="right" alt="Twitter" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rabii-hafit">
-  <img align="right" alt="LinkedIn" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
-</a>
-<a href="https://codesandbox.io/u/RabiiHafit">
-  <img align="right" alt="CodeSandbox" width="24px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rabii-hafit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/RabiiHafit" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://github.com/RabiiHafit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
-✨ *“Keep learning, keep building — the code will follow.”*  
+
+<p align="center">
+  ✨ “Code. Learn. Create. Repeat.” ✨
+</p>
