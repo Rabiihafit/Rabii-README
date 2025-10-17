@@ -52,6 +52,12 @@ I love building clean, modern web applications and constantly improving my skill
   </a>
 </p>
 
+git init
+git add README.md
+git commit -m "Add profile README"
+git branch -M main
+git remote add origin git@github.com:Rabiihafit/Rabiihafit.git
+git push -u origin main
 ---
 
 <p align="center">
