@@ -41,10 +41,10 @@ I love building clean, modern web applications and constantly improving my skill
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rabii-hafit" target="_blank">
+  <a href="https://www.linkedin.com/feed" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://x.com/RabiiHafit" target="_blank">
+  <a href="http://x.com/hft_rabii" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
   </a>
   <a href="https://github.com/RabiiHafit" target="_blank">
@@ -55,10 +55,3 @@ I love building clean, modern web applications and constantly improving my skill
 <p align="center">
   ✨ “Code. Learn. Create. Repeat.” ✨
 </p>
-
-git init
-git add README.md
-git commit -m "Add profile README"
-git branch -M main
-git remote add origin git@github.com:Rabiihafit/Rabiihafit.git
-git push -u origin main
